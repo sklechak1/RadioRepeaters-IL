@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lake In The Hills</key>
+	<array>
+		<string>W9RCM - Rob</string>
+		<string>KC9ONA - Andy</string>
+	</array>
+	<key>Ingleside</key>
+	<array>
+		<string>KC9VPX - Evan</string>
+		<string>N9GUU - Gary</string>
+		<string>KD9KPA - Kirk</string>
+		<string>N9QDS - Keith</string>
+		<string>KDKZW - Rob</string>
+	</array>
+	<key>Grayslake</key>
+	<array>
+		<string>KD9KPA - Kirk</string>
+		<string>AA9IL - Mike</string>
+	</array>
+	<key>Crystal Lake</key>
+	<array>
+		<string>K9EYE - Pierre</string>
+		<string>KB9FDX - Charlie</string>
+		<string>KD9FML - Gary</string>
+		<string>KB9VRW - Scott</string>
+	</array>
+	<key>McHenry</key>
+	<array>
+		<string>W9FFF - Sean</string>
+		<string>NT9E - Dave</string>
+		<string>WB9ICF - Ralph</string>
+		<string>KD9KSK - Burt</string>
+		<string>N9SO - George</string>
+		<string>KC9JBA - BOB</string>
+		<string>KC9JAZ - Janann</string>
+		<string>KB9KVI - Tim</string>
+		<string>K9EM - Tom</string>
+	</array>
+</dict>
+</plist>
